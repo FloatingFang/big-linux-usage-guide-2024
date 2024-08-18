@@ -30,7 +30,7 @@ You have Big Store, which for me, is one of the best stores ever created for an 
 ![image](https://github.com/user-attachments/assets/66d40515-4194-4a25-a2d8-e2704f8a293b)
 
 
-#Customization
+# Customization
 The Big Linux's KDE feels more consistent and unique, so dont fear to learn the new KDE styling, here is an screenshot of my BigLinux install
 
 ![image](https://github.com/user-attachments/assets/c8ef7bda-53d8-476f-91f4-b3539e4ea4f3)
