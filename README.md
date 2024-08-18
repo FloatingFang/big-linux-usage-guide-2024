@@ -1,5 +1,5 @@
 # About
-This is an W.I.P guide for BigLinux. a braziliain Manjaro/Arch-based distro, that focus on bringing innovation in way of faster, secure, and hassle free 
+This is an W.I.P guide for BigLinux. a brazilian Manjaro/Arch-based distro, that focuses on bringing innovation in way of faster, secure, and hassle free.
 
 I am covering the KDE version, there are community versions of GNOME and XFCE, both are maintained by community and not officially supported by the Big Linux Team
 
@@ -8,34 +8,30 @@ I am covering the KDE version, there are community versions of GNOME and XFCE, b
 
 
 # Install Process
-After booting the ISO and choosing if you want proprietary or open source drivers, choose your preferred language and keyboard, and layout/theme (there are many that reflects MacOS/Gnome, Macdows, and Classic Windows and Ubuntu in a Unity style) and forward to the desktop enviroment
-Booted? right, now install the distro into your VM/HDD/SSD, it uses the Calamares installer, so head carefully
+After booting the ISO, and choosing whether you want proprietary or open source drivers, and choosing your preferred language and keyboard along with it, and your favorite theme/layout (there is the MacOS/Gnome theme, WinMac, Classic Windows, and a which reflects Canonical's Unity, both are very modern themes), and now on the starting desktop, click on the installer and follow the steps, which is Calamares, and play some Atari PingPong while you wait
+
+# Post-Installation
+Now that you have installed it, make the updates in the Terminal (Konole) and type:
+# sudo pacman -Syyu
+If you fail to synchronize the database
+# sudo pamac update --force-refresh
+Reboot and see if everything is ok on your system, if everything goes well, you will be ready to try the system, and explore everything it has to offer, both the webapps included, the cool backgrounds, and finally play, besides, look the Big Store if you want to install browsers, emulators/games, newsreaders, RSS, and I recommend that you explore the Big Control Center, which is the most advanced control center we have
+
+# Gaming/Steam/Lutris/Retroarch
+Both are installed by default, Steam just click and wait for it to update, Lutris is recommended to download Wine or Proton, and then make the settings you want
+Big Linux is already very prepared for games, with the possibility of installing Retroarch for installation and playing old games in the BigStore, with a simplifier right there
+And because it is Arch/Manjaro based, you have new technologies
+
+# Exploring the OS
+You have webapps, from webapps from Google, to most common services, as this focus on simplicity, and all of these apps surprinsingly doesn't pass from 50+ MB on total, so enjoy them
+You have an microphone background sound decreaser, good enough, right?
+You have VLC as default
+You have Big Store, which for me, is one of the best stores ever created for an system, which integrates the AUR, Natives, Flatpaks, and Snaps, with possibility of integrating .deb and .rpm (WOW)
+
+![image](https://github.com/user-attachments/assets/66d40515-4194-4a25-a2d8-e2704f8a293b)
 
 
-# Post-Install
-- The first thing that you wish to do is update your system
-sudo pacman -Syyu
-- if the package manager fails to sync the base
-sudo pamac update --force-refresh
-- After updating, give a restart and see if everything is okay, at this point you are free to use the system however you like and wish
-The reccomended is to explore the Big Store and the Control Center of Big Linux
-Since it uses the KDE desktop enviroment, you can modify it outside of the proposed at Control Center
-- It comes with Steam and Lutris, so gaming on it is really easy, make sure you install Wine and Proton
-
-# After Post-Install (Customization)
-- You have 4 Start Menu options, hence them;
-Cascade-based start menu
-Full-Screen based start menu
-BigLinux-style/modern start menu
-KDE default start menu
-- You can check the start button alternative logos right clicking the start button, there are many alternatives logos to be used
-
-# Gaming
-Since gaming is a one of the BigLinux's focus, you can configure Steam and Lutris, with possibility to install RetroArch, emulators, native games, with an rich and diverse Big Store
-- Steam will be updated after launching, so its not full installed
-- It's Arch/Manjaro based, so you will have most of the last technologies
-
-
+#Customization
 The Big Linux's KDE feels more consistent and unique, so dont fear to learn the new KDE styling, here is an screenshot of my BigLinux install
 
 ![image](https://github.com/user-attachments/assets/c8ef7bda-53d8-476f-91f4-b3539e4ea4f3)
