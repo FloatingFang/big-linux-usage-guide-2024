@@ -3,7 +3,8 @@ This is an W.I.P guide for BigLinux. a braziliain Manjaro/Arch-based distro, tha
 
 I am covering the KDE version, there are community versions of GNOME and XFCE, both are maintained by community and not officially supported by the Big Linux Team
 
-![image](https://github.com/user-attachments/assets/e1e8aa5b-810e-41da-804a-c43181accaef)
+![image](https://github.com/user-attachments/assets/7142a6a3-8cf9-4451-a47b-a6673bb9eee1)
+
 
 
 # Install Process
@@ -16,10 +17,10 @@ Booted? right, now install the distro into your VM/HDD/SSD, it uses the Calamare
 sudo pacman -Syyu
 - if the package manager fails to sync the base
 sudo pamac update --force-refresh
-- After updated, give an restart and see if everything is okay, at this point you are free to use the system however you like and wish
+- After updating, give a restart and see if everything is okay, at this point you are free to use the system however you like and wish
 The reccomended is to explore the Big Store and the Control Center of Big Linux
 Since it uses the KDE desktop enviroment, you can modify it outside of the proposed at Control Center
-- It comes with Steam and Lutris, so gaming on is really easy, make sure you install Wine and Proton
+- It comes with Steam and Lutris, so gaming on it is really easy, make sure you install Wine and Proton
 
 # After Post-Install (Customization)
 - You have 4 Start Menu options, hence them;
