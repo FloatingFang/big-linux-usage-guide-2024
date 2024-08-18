@@ -19,8 +19,7 @@ Reboot and see if everything is ok on your system, if everything goes well, you 
 
 # Gaming/Steam/Lutris/Retroarch
 Both are installed by default, Steam just click and wait for it to update, Lutris is recommended to download Wine or Proton, and then make the settings you want
-Big Linux is already very prepared for games, with the possibility of installing Retroarch for installation and playing old games in the BigStore, with a simplifier right there
-And because it is Arch/Manjaro based, you have new technologies
+Big Linux is already very prepared for games, with the possibility of installing Retroarch for installation and playing old games in the BigStore, with a simplifier right there, and because it is Arch/Manjaro based, you have new technologies
 
 # Exploring the OS
 You have webapps, from webapps from Google, to most common services, as this focus on simplicity, and all of these apps surprinsingly doesn't pass from 50+ MB on total, so enjoy them
